@@ -1,4 +1,4 @@
-# Personal Information Security Basics: Hands On Workshops for Your Digital Life
+# Personal Information Security Basics: Hands On Workshops for Your Digital Life Información Básica Sobre la Seguridad de la Información Personal: Talleres Prácticos para Su Vida Digital
 
 Worried about online security and how to keep all of your family’s devices and information safe? 
 You are not alone! Given recent data breaches, reports of hacking, and concerns around social media, it’s become abundantly clear how important it is to secure our personal information. But most people aren’t sure how to do that, or who to trust, and we never seem to find the time to do the research. When we do try, we’re afraid of making a mistake in the process.
